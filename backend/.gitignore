@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+voice_embedding.json
+cloned_voice_test.wav
+test_reminder.wav
+generated_audio/
+uploads/
+tests/uploads/
